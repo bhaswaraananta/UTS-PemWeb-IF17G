@@ -1,0 +1,6 @@
+Kelompok terdiri dari 2 orang
+1. Bhaswara Ananta | 17312080
+2. Nasya Nabila Nasoba | 17312088
+
+Web yang kami buat merupakan web management user diantaranya ada user admin dan user member/user biasa
+dan web ini dibuat menggunakan framwork CodeIgniter
