@@ -3,5 +3,7 @@ Kelompok terdiri dari 2 orang
 2. Nasya Nabila Nasoba | 17312088
 
 
+web ini dibuat menggunakan bahasa php dan menggunakan framwork CodeIgniter
+
 
 aplikasi web ini untuk edit dan hapus di submenu management dan menu management belum berfungsi
