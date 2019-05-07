@@ -4,3 +4,5 @@ Kelompok terdiri dari 2 orang
 
 Web yang kami buat merupakan web management user diantaranya ada user admin dan user member/user biasa
 dan web ini dibuat menggunakan framwork CodeIgniter
+
+aplikasi web ini untuk edit dan hapus di submenu management dan menu management belum berfungsi
